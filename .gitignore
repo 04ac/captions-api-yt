@@ -1,4 +1,6 @@
 .vercel
+__pycache__/
+.idea/
 
 # My files
 testing.py
