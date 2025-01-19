@@ -1,7 +1,10 @@
 .vercel
 __pycache__/
 .idea/
+.venv/
 
 # My files
 testing.py
 app.py
+app_test.py
+.env
